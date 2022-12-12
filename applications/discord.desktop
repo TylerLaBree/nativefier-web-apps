@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Discord
+Path=/opt/Discord-linux-x64
+Exec=/opt/Discord-linux-x64/Discord
+Icon=/opt/Discord-linux-x64/resources/app/icon.svg
+StartupNotify=true
+StartupWMClass=discord-nativefier-18566a

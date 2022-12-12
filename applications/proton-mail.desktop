@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Proton Mail
+Path=/opt/ProtonMail-linux-x64
+Exec=/opt/ProtonMail-linux-x64/ProtonMail
+Icon=/opt/ProtonMail-linux-x64/resources/app/icon.png
+StartupNotify=true
+StartupWMClass=protonmail-nativefier-2572fe

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Proton Calendar
+Path=/opt/ProtonCalendar-linux-x64
+Exec=/opt/ProtonCalendar-linux-x64/ProtonCalendar
+Icon=/opt/ProtonCalendar-linux-x64/resources/app/icon.png
+StartupNotify=true
+StartupWMClass=protoncalendar-nativefier-11cfa2

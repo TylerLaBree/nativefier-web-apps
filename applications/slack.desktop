@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Slack
+Path=/opt/Slack-linux-x64
+Exec=/opt/Slack-linux-x64/Slack
+Icon=/opt/Slack-linux-x64/resources/app/icon.svg
+StartupNotify=true
+StartupWMClass=slack-nativefier-127a19
