@@ -2,7 +2,7 @@
 Type=Application
 Name=Proton Mail
 Path=/opt/ProtonMail-linux-x64
-Exec=/opt/ProtonMail-linux-x64/ProtonMail
+Exec=/opt/ProtonMail-linux-x64/ProtonMail --ozone-platform=wayland --enable-features=WaylandWindowDecorations
 Icon=/opt/ProtonMail-linux-x64/resources/app/icon.png
 StartupNotify=true
 StartupWMClass=protonmail-nativefier-2572fe
